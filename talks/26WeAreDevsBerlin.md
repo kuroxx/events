@@ -2,6 +2,8 @@
 
 This is a talk I gave at the [WeAreDevelopers World Congress 2026 - Europe](https://www.wearedevelopers.com/world-congress).
 
+![My talk](https://github.com/user-attachments/assets/f5af99c7-5db2-4ca2-9611-d16bc1544d8b)
+
 
 Talk recording not applicable.
 
