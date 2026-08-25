@@ -1,3 +1,13 @@
+---
+title: "Keeping Conversations on Track with Twilio"
+event: "Twilio SIGNAL SF 2026"
+url: "https://docs.google.com/presentation/d/1iccmq7ycQalVZBpV3S-53F3Z7zwu60hvcxjU-lX3eSQ/edit?usp=sharing"
+format: "Slides"
+date: "2026-05-06"
+type: "talk"
+description: "Every conversation contains valuable insights, if you know where to look. This demo session explores real-time conversation analysis: how to monitor sentiment and quality, track both human and AI agent performance, and catch issues before they escalate."
+---
+
 # Twilio SIGNAL SF 2026
 
 This is a talk I gave at the [Twilio SIGNAL SF](https://signal.twilio.com/2026/sessions).

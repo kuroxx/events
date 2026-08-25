@@ -1,3 +1,13 @@
+---
+title: "Build a Multi-Channel AI Agent"
+event: "WeAreDevelopers World Congress 2026 - Europe"
+url: "https://github.com/kuroxx/multi-channel-ai-agent-workshop"
+format: "Workshop"
+date: "2026-07-08"
+type: "talk"
+description: "Building production AI agents means solving infrastructure problems before writing agent logic. In this workshop, you'll build and deploy a multi-channel agent using Python and Twilio Agent Connect (TAC) with OpenAI, handling voice, SMS, and web interactions with shared context."
+---
+
 # WeAreDevelopers World Congress 2026 - Europe
 
 This is a talk I gave at the [WeAreDevelopers World Congress 2026 - Europe](https://www.wearedevelopers.com/world-congress).

@@ -1,3 +1,13 @@
+---
+title: "Building Real-Time AI Voice Agents"
+event: "The European Chatbot & Conversational AI Summit 2026"
+url: "https://docs.google.com/presentation/d/1OLqgf79AGwJ_8b-NQpDhSp3cqcTSXgeeU6vkblTB_K4/edit?usp=sharing"
+format: "Slides"
+date: "2026-03-17"
+type: "talk"
+description: "Step into the developer's kitchen and discover how to build AI voice agents that deliver fast and engaging conversations using Twilio. This session will cover code recipes for creating voice agents that listen and respond naturally and handle interruptions smoothly."
+---
+
 # The European Chatbot & Conversational AI Summit 2026 - 6th Edition
 
 This is a talk I gave at the [The European Chatbot 2026](https://theeuropeanchatbot.com/product/building-real-time-ai-voice-agents/).
