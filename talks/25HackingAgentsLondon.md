@@ -1,7 +1,7 @@
 ---
 title: "Hacking Agents Hackathon London 2025"
 event: "TurinTech AI"
-eventUrl: "https://www.turintech.ai/resources/hacking-agents-hackathon-london-2025"
+blogUrl: "https://www.turintech.ai/resources/hacking-agents-hackathon-london-2025"
 videoUrl: "https://www.youtube.com/watch?v=zHxwI66lh_E"
 date: "2025-06-23"
 type: "talk"

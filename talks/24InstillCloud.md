@@ -1,7 +1,7 @@
 ---
 title: "OpenAI Structured Outputs and Web Scraping with Instill Cloud"
 event: "Instill AI"
-eventUrl: "https://dev.to/anni_in_tech/building-an-llm-powered-knowledge-curation-system-26nd"
+blogUrl: "https://dev.to/anni_in_tech/building-an-llm-powered-knowledge-curation-system-26nd"
 videoUrl: "https://www.youtube.com/watch?v=x0XsmuCrit8"
 date: "2024-09-13"
 type: "talk"

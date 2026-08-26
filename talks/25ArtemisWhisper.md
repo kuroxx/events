@@ -1,7 +1,7 @@
 ---
 title: "Artemis in Action: 25% Speed Gain on OpenAI's Whisper for Faster Transcription"
 event: "TurinTech AI"
-eventUrl: "https://www.turintech.ai/resources/how-we-made-openais-whisper-25-faster-with-artemis"
+blogUrl: "https://www.turintech.ai/resources/how-we-made-openais-whisper-25-faster-with-artemis"
 videoUrl: "https://www.youtube.com/watch?v=8FHFmd017BY"
 date: "2025-03-18"
 type: "talk"
