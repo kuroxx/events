@@ -1,8 +1,9 @@
 ---
 title: "Keeping Conversations on Track with Twilio"
 event: "Twilio SIGNAL SF 2026"
-url: "https://docs.google.com/presentation/d/1iccmq7ycQalVZBpV3S-53F3Z7zwu60hvcxjU-lX3eSQ/edit?usp=sharing"
-format: "Slides"
+eventUrl: "https://signal.twilio.com/2026/sessions"
+slidesUrl: "https://docs.google.com/presentation/d/1iccmq7ycQalVZBpV3S-53F3Z7zwu60hvcxjU-lX3eSQ/edit?usp=sharing"
+githubUrl: "https://github.com/kuroxx/tw-signal-sf-2026-ci-demo"
 date: "2026-05-06"
 type: "talk"
 location: "San Francisco, USA"

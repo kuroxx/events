@@ -1,8 +1,8 @@
 ---
 title: "Building Real-Time AI Voice Agents"
 event: "The European Chatbot & Conversational AI Summit 2026"
-url: "https://docs.google.com/presentation/d/1OLqgf79AGwJ_8b-NQpDhSp3cqcTSXgeeU6vkblTB_K4/edit?usp=sharing"
-format: "Slides"
+eventUrl: "https://theeuropeanchatbot.com/product/building-real-time-ai-voice-agents/"
+slidesUrl: "https://docs.google.com/presentation/d/1OLqgf79AGwJ_8b-NQpDhSp3cqcTSXgeeU6vkblTB_K4/edit?usp=sharing"
 date: "2026-03-17"
 type: "talk"
 location: "Edinburgh, UK"
