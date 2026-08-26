@@ -1,7 +1,7 @@
 ---
 title: "Build a Multi-Channel AI Agent"
 event: "WeAreDevelopers World Congress 2026 - Europe"
-eventUrl: "https://www.wearedevelopers.com/world-congress"
+eventUrl: "https://www.wearedevelopers.com/world-congress/agenda/workshops/build-a-multi-channel-ai-agent-1245719"
 githubUrl: "https://github.com/kuroxx/multi-channel-ai-agent-workshop"
 date: "2026-07-08"
 type: "talk"
