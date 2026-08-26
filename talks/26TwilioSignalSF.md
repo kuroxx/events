@@ -5,6 +5,9 @@ url: "https://docs.google.com/presentation/d/1iccmq7ycQalVZBpV3S-53F3Z7zwu60hvcx
 format: "Slides"
 date: "2026-05-06"
 type: "talk"
+location: "San Francisco, USA"
+lat: 37.7749
+lng: -122.4194
 description: "Every conversation contains valuable insights, if you know where to look. This demo session explores real-time conversation analysis: how to monitor sentiment and quality, track both human and AI agent performance, and catch issues before they escalate."
 ---
 

@@ -5,6 +5,9 @@ url: "https://docs.google.com/presentation/d/1OLqgf79AGwJ_8b-NQpDhSp3cqcTSXgeeU6
 format: "Slides"
 date: "2026-03-17"
 type: "talk"
+location: "Edinburgh, UK"
+lat: 55.9533
+lng: -3.1883
 description: "Step into the developer's kitchen and discover how to build AI voice agents that deliver fast and engaging conversations using Twilio. This session will cover code recipes for creating voice agents that listen and respond naturally and handle interruptions smoothly."
 ---
 

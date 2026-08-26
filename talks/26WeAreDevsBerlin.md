@@ -5,6 +5,9 @@ url: "https://github.com/kuroxx/multi-channel-ai-agent-workshop"
 format: "Workshop"
 date: "2026-07-08"
 type: "talk"
+location: "Berlin, Germany"
+lat: 52.5200
+lng: 13.4050
 description: "Building production AI agents means solving infrastructure problems before writing agent logic. In this workshop, you'll build and deploy a multi-channel agent using Python and Twilio Agent Connect (TAC) with OpenAI, handling voice, SMS, and web interactions with shared context."
 ---
 
