@@ -13,6 +13,8 @@ description: "Your customers don't all speak the same language — so how do you
 
 This is a webinar I co-presented with Marius Obert for [Twilio Level Up](https://webinars.twilio.com/twilio/emea-level-up-multi-lingual-voice-ai).
 
+![My talk](https://github.com/user-attachments/assets/74a3e339-7add-4d18-b57d-5fa50ada7731)
+
 The recording is available on the [webinar page](https://webinars.twilio.com/twilio/emea-level-up-multi-lingual-voice-ai).
 
 
