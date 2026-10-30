@@ -14,6 +14,8 @@ description: "Explore use cases where agents turn conversations into revenue wit
 
 This is a 30-minute mentor session I gave at the [MAKE ME MONEY: AI Agent Hackathon](https://luma.com/ou24kgyr).
 
+![My talk](https://github.com/user-attachments/assets/f296af0b-82db-4fbe-9dfa-8814f9e937fe)
+
 Mentor session on Wednesday 4 November 2026 at 18:00.
 
 
