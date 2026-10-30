@@ -14,6 +14,8 @@ description: "Customers should not have to repeat themselves across voice or mes
 
 This is a talk I gave at the [Twilio Dev User Group](https://luma.com/f6jbqbec).
 
+![My talk](https://github.com/user-attachments/assets/dbc1703d-8da0-43bd-a8a3-dda20f6f4237)
+
 This talk was not recorded.
 
 
