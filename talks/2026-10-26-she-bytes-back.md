@@ -14,6 +14,8 @@ description: "Agents don't remember simply because a transcript exists. In this 
 
 This is a talk I gave at [She Bytes Back x Twilio: Building AI Agents That Actually Remember](https://luma.com/yoymhbhc).
 
+![My talk](https://github.com/user-attachments/assets/b1940a38-d78c-4417-8607-cd331cf35581)
+
 Talk recording coming soon...
 
 
